@@ -1,0 +1,8 @@
+*.pdf
+*.png
+*.pvd
+*.vtu
+
+tohoku/01-setup/outputs/
+tohoku/02-okada/plots/
+tohoku/02-okada/old/
