@@ -1,6 +1,7 @@
 *.ipynb_checkpoints
 *.pdf
 *.png
+*.jpg
 *.pvd
 *.vtu
 *.tap
